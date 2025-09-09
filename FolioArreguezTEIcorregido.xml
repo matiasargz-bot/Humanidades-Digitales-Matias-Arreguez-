@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   
+    <teiHeader> 
+      <fileDesc>
+            <titleStmt>
+                <title xml:id="montevideo">Folio b8 y c1</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Gabriel Calarco</editor>  
+
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+        <text>
+            <body>
+
+<pb n="b8"></pb><head><placeName key="montevideo">Montevideo</placeName></head>
+<p>29 voz bárbara, o a lo menos viciada o corrompida del castellano, Monteveo, o portugués <foreign xml:lang="portugue">Monteveio</foreign>, o de <foreign xml:lang="latin">latín Montemvideo</foreign>. En atención a su hermosa ensenada y otros respetos, dio principio a su fundación el año de 1731, con corta diferencia, don <persName key="brunozabala">Bruno de Zabala</persName>, con catorce o quince familias que se condujeron por <persName key="basavilbaso">don Domingo de Basavilbaso</persName>, en navío de don <persName key="alzaibar">Francisco Alzaibar</persName>, de la <placeName key="palma">isla y ciudad de la Palma</placeName>, una de las <placeName key="canarias">Canarias</placeName>. Se hallaba de gobernador interino, por ausencia del propietario, <persName key="delarosa">brigadier don Agustín de la Rosa</persName>, el mariscal de campo don <persName key="viana">Joaquín de Viana</persName>, que había sido antes gobernador, con general aceptación. Tiene una fortaleza que sirve de <note xml:id="b8nota1">ciudadela</note>, y amenaza ruina por mal construida. Una distancia grande de la playa guarnece una muralla bien ancha de <note xml:id="b8nota2">tapín</note>, con gruesos y buenos cañones montados. Además de la guarnición ordinaria, se hallaba en ella y en el <placeName key="sancarlos">destacamento de San Carlos el regimiento de Mallorca</placeName> y los voluntarios de <placeName key="cataluña">Cataluña</placeName>. Estaba de comandante del puerto el capi<pb n="c1"></pb>tán de navío <persName key="veanes">don José Díaz Veanes</persName>, con dos fragatas y un <note xml:id="c1nota1">cabequín</note>, y de administrador de correos de mar y tierra <persName key="melchorviana">don Melchor de Viana</persName>, y de interventor <persName key="vediacuadra">don Joaquín de Vedia y la Cuadra</persName>, personas de estimación y crédito, con un oficial que asiste a la descarga y carga de los <note xml:id="c1nota2">bajeles</note>, todos a sueldo por la renta. </p>
+
+  
+<p> 30 El número de vecinos de esta ciudad y su ejido, aseguran llega a mil. Los curas anteriores al actual no han formado padrones, enfermedad que casi cunde a todo el <placeName key="tucumán">Tucumán</placeName>. El año de 1770 nacieron en la ciudad y todo su <note xml:id="c1nota3">ejido</note> 170 y murieron 70, prueba de la sanidad del país y también de la poca fecundidad de las mujeres, si fijamos el número de un mil vecinos. Lo más cierto es que los casados no pasarán de trescientos, y que el crecido número que regulan se compone de muchos desertores de mar y tierra y algunos polizones, que a título de la abundancia de comestibles ponen <note xml:id="c1nota4">pulperías</note> con muy poco dinero para encubrir sus <note xml:id="c1nota5">poltronerias</note> y algunos contrabandos, que hoy día, por el sumo celo de los gobernadores actuales de <placeName key="buenosaires">Buenos Aires</placeName> y <placeName key="montevideo">Montevideo</placeName>, no son muy frecuentes </p>
+
+</body>
+</text>
+</TEI>
